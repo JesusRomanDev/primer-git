@@ -1,4 +1,9 @@
 Hola Mundo
 Hola Mundo para nueva rama
 Hola Mundo para nueva rama2
+<<<<<<< HEAD
 Edicion de archivo2
+=======
+Hola desde una nueva branch
+Sal
+>>>>>>> 0048a6d72f8172273e0b9ccf68ee280cc610c4d0
